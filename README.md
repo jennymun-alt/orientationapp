@@ -1,6 +1,8 @@
 # Project
 MSSA Class Project
+
 08/16/2020
+
 User Story 1 (Charles Williams)
 As a new employee, I want a clear picture of what I want so that I can complete my orientation.
 
