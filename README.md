@@ -1,9 +1,9 @@
 # Project
-MSSA Class Project
+New Hire Orientation Web application
 
 08/16/2020
 
-Project Step 7
+Requirements
 
 User Story 1 (Charles Williams)
 As a new employee, I want a clear picture of what I want so that I can complete my orientation.
