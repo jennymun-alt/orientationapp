@@ -1,5 +1,5 @@
 # Project
-New Hire Orientation Web application
+New Hire Orientation Web Application
 
 08/16/2020
 
