@@ -1,7 +1,124 @@
-# Project
-New Hire Orientation Web Application
+# New Hire Orientation Application (for Pear Co.)
 
-08/16/2020
+
+Complete your Company Orientation Virtually!
+
+![Welcome to the Team](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/welcomeToTheTeam.jpg)
+
+
+## <div align="center">Table of Contents</div>
+
+1. [Concept Description](#Concept Description)
+2. [Data Diagram(s)](#Database Conceptual Design:ERD)
+3. [Data Diagram(s)](#SQL Sample Database)
+4. [Data Diagram(s)](#SQL Table Relationship)
+5. [User Stories](#User Stories)
+6. [Use Cases](#Use Cases) // UML
+7. [User Interface](#User Interface) // this is where you do the wireframe!!
+8. [Requirements](#Requirements)
+9. [Requirements Table](#Requirements Table)
+10. [Test Case Table](#Test Case Table)
+
+
+## <div align="center">Concept Description</div>
+[(back to top)](#table-of-contents)
+
+
+This is an application for newly hired employees to complete their orientation.
+
+
+## <div align="center">Data Diagram (Database Conceptual Design: ERD)</div>
+[(back to top)](#table-of-contents)
+
+
+![ERD](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/ERD_Draft.pdf)
+
+
+## <div align="center">Data Diagram (SQL Sample Database)</div>
+[(back to top)](#table-of-contents)
+
+
+![SQL Database](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/SQL1.0)
+
+
+## <div align="center">Data Diagram (SQL Table Relationship)</div>
+[(back to top)](#table-of-contents)
+
+
+![SQL Table](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/ERDiagram1.0.JPG)
+
+
+## <div align="center">User Stories</div>
+[(back to top)](#table-of-contents)
+
+
+**1.** Rebecca Smith: "As a new employee, I want a clear picture of what I have to complete - in one page so that I can complete my orientation."
+
+**2.** Jenny Mun: "I am starting my new job next week, and I want to make sure I sign and turn in my documents."
+
+
+## <div align="center">Use Cases (UML)</div>
+[(back to top)](#table-of-contents)
+
+
+![UML](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/UML.pdf)
+
+
+## <div align="center">User Interface (Wireframes)</div>
+[(back to top)](#table-of-contents)
+
+The home page will be a login page.
+
+![Login Page](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/Mainpage1Resize.PNG)
+
+
+This is the registration page.
+
+![Register Page](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/Registerpage2Resize.PNG)
+
+
+This is the main page where the user will utilize to finish the process of orientation.
+
+![Orientation Page](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/OrientationPortal3Resize.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Requirements
 
