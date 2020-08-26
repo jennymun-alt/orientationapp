@@ -27,21 +27,21 @@ Complete your Company Orientation Virtually!
 This is an application for newly hired employees to complete their orientation.
 
 
-## <div align="center">Data Diagram (Database Conceptual Design: ERD)</div>
+## <div align="center">Database Conceptual Design: ERD</div>
 [(back to top)](#table-of-contents)
 
 
 ![ERD](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/ERD%20Resize.png)
 
 
-## <div align="center">Data Diagram (SQL Sample Database)</div>
+## <div align="center">SQL Sample Database</div>
 [(back to top)](#table-of-contents)
 
 
 ![SQL Database](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/SQL1.0)
 
 
-## <div align="center">Data Diagram (SQL Table Relationship)</div>
+## <div align="center">SQL Table Relationship</div>
 [(back to top)](#table-of-contents)
 
 
@@ -57,14 +57,14 @@ This is an application for newly hired employees to complete their orientation.
 **2.** Jenny Mun: "I am starting my new job next week, and I want to make sure I sign and turn in my documents."
 
 
-## <div align="center">Use Cases (UML)</div>
+## <div align="center">Use Cases</div>
 [(back to top)](#table-of-contents)
 
 
 ![UML](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/Slide1.PNG)
 
 
-## <div align="center">User Interface (Wireframes)</div>
+## <div align="center">User Interface</div>
 [(back to top)](#table-of-contents)
 
 The home page will be a login page.
