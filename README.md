@@ -8,16 +8,16 @@ Complete your Company Orientation Virtually!
 
 ## <div align="center">Table of Contents</div>
 
-1. [Concept Description] (#Concept Description)
-2. [Data Diagram(s)] (#Database Conceptual Design:ERD)
-3. [Data Diagram(s)](#SQL Sample Database)
-4. [Data Diagram(s)](#SQL Table Relationship)
-5. [User Stories](#User Stories)
-6. [Use Cases](#Use Cases) // UML
-7. [User Interface](#User Interface) // this is where you do the wireframe!!
+1. [Concept Description](#Concept-Description)
+2. [Data Diagram(s)](#Database-Conceptual-Design:ERD)
+3. [Data Diagram(s)](#SQL-Sample-Database)
+4. [Data Diagram(s)](#SQL-Table-Relationship)
+5. [User Stories](#User-Stories)
+6. [Use Cases](#Use-Cases) 
+7. [User Interface](#User-Interface) 
 8. [Requirements](#Requirements)
-9. [Requirements Table](#Requirements Table)
-10. [Test Case Table](#Test Case Table)
+9. [Requirements Table](#Requirements-Table)
+10. [Test Case Table](#Test-Case-Table)
 
 
 ## <div align="center">Concept Description</div>
