@@ -111,6 +111,7 @@ Scenario (4)
 4. The HR administrator uploads company’s documents into the module it belongs in.
 5. The HR administrator updates the orientation documents and details on the web page according to the company’s changed policies. 
 
+
 Requirements Table
 | Requirement ID | Description                                                                                                                 | Test Method   | Test ID |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------|---------------|---------|
