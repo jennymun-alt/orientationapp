@@ -31,7 +31,7 @@ This is an application for newly hired employees to complete their orientation.
 [(back to top)](#table-of-contents)
 
 
-![ERD](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/ERD_Draft.pdf)
+![ERD](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/ERD%20Resize.png)
 
 
 ## <div align="center">Data Diagram (SQL Sample Database)</div>
@@ -61,7 +61,7 @@ This is an application for newly hired employees to complete their orientation.
 [(back to top)](#table-of-contents)
 
 
-![UML](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/UML.pdf)
+![UML](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/Slide1.PNG)
 
 
 ## <div align="center">User Interface (Wireframes)</div>
