@@ -9,7 +9,7 @@ Complete your Company Orientation Virtually!
 ## <div align="center">Table of Contents</div>
 
 1. [Concept Description](#Concept-Description)
-2. [Database Conceptual Design: ERD](#Database-Conceptual-Design:ERD)
+2. [Database Conceptual Design](#Database-Conceptual-Design)
 3. [SQL Sample Database](#SQL-Sample-Database)
 4. [SQL Table Relationship](#SQL-Table-Relationship)
 5. [User Stories](#User-Stories)
@@ -27,7 +27,7 @@ Complete your Company Orientation Virtually!
 This is an application for newly hired employees to complete their orientation.
 
 
-## <div align="center">Database Conceptual Design: ERD</div>
+## <div align="center">Database Conceptual Design</div>
 [(back to top)](#table-of-contents)
 
 
