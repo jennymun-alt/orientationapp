@@ -82,7 +82,8 @@ This is the main page where the user will utilize to finish the process of orien
 ![Orientation Page](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/OrientationPortal3Resize.PNG)
 
 
-Use Case Scenario
+## <div align="center">Use Case Scenario</div>
+[(back to top)](#table-of-contents)
 
 Scenario (1)
 1. The new employee clicks register button.
@@ -112,7 +113,9 @@ Scenario (4)
 5. The HR administrator updates the orientation documents and details on the web page according to the company’s changed policies. 
 
 
-Requirements Table
+## <div align="center">Requirements Table</div>
+[(back to top)](#table-of-contents)
+
 | Requirement ID | Description                                                                                                                 | Test Method   | Test ID |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------|---------------|---------|
 | 1.0            | User Needs: ID and Password, A User shall be able to register.                                                              | Test          | T1.0    |
