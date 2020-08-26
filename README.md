@@ -14,7 +14,8 @@ Complete your Company Orientation Virtually!
 4. [SQL Table Relationship](#SQL-Table-Relationship)
 5. [User Stories](#User-Stories)
 6. [Use Cases](#Use-Cases) 
-7. [User Interface](#User-Interface) 
+7. [User Interface](#User-Interface)
+8. [Use Case Scenario](#Use-Case-Scenario)
 8. [Requirements](#Requirements)
 9. [Requirements Table](#Requirements-Table)
 10. [Test Case Table](#Test-Case-Table)
@@ -82,53 +83,8 @@ This is the main page where the user will utilize to finish the process of orien
 ![Orientation Page](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/OrientationPortal3Resize.PNG)
 
 
+Use Case Scenario
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Requirements
-
-User Story 1 (Charles Williams)
-As a new employee, I want a clear picture of what I want so that I can complete my orientation.
-
-User Story 2 (Brittany Quigley)
-I am newly hired, and I want to complete my orientation package so that I can start working next month!
-
-Use Case
 Scenario (1)
 1. The new employee clicks register button.
 2. The new employee fills in required fields and registers.
