@@ -9,9 +9,9 @@ Complete your Company Orientation Virtually!
 ## <div align="center">Table of Contents</div>
 
 1. [Concept Description](#Concept-Description)
-2. [Data Diagram(s)](#Database-Conceptual-Design:ERD)
-3. [Data Diagram(s)](#SQL-Sample-Database)
-4. [Data Diagram(s)](#SQL-Table-Relationship)
+2. [Database Conceptual Design: ERD](#Database-Conceptual-Design:ERD)
+3. [SQL Sample Database](#SQL-Sample-Database)
+4. [SQL Table Relationship](#SQL-Table-Relationship)
 5. [User Stories](#User-Stories)
 6. [Use Cases](#Use-Cases) 
 7. [User Interface](#User-Interface) 
