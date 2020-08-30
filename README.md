@@ -24,7 +24,7 @@ Complete your Company Orientation Virtually!
 [(back to top)](#table-of-contents)
 
 
-This is an application for newly hired employees to complete their orientation.
+This is an application for newly hired employees to complete their orientation in.
 
 
 ## <div align="center">Database Conceptual Design</div>
@@ -52,7 +52,7 @@ This is an application for newly hired employees to complete their orientation.
 [(back to top)](#table-of-contents)
 
 
-**1.** Rebecca Smith: "As a new employee, I want a clear picture of what I have to complete - in one page so that I can complete my orientation."
+**1.** Rebecca Smith: "As a new employee, I want a clear picture of what I have to complete in one page, so that I can complete my orientation."
 
 **2.** Jenny Mun: "I am starting my new job next week, and I want to make sure I sign and turn in my documents."
 
