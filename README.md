@@ -4,7 +4,7 @@
 Complete your Company Orientation Virtually!
 
 <p align="center">
-![Welcome to the Team](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/welcomeToTheTeam.jpg)
+<img src="https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/welcomeToTheTeam.jpg/>
 </p>
 
 ## <div align="center">Table of Contents</div>
