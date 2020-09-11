@@ -3,9 +3,9 @@
 
 Complete your Company Orientation Virtually!
 
-<p align="center">
-<img src="https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/welcomeToTheTeam.jpg/>
-</p>
+
+![Welcome to the Team](https://github.com/jennymun-alt/orientationapp/blob/master/miscellaneous/welcomeToTheTeam.jpg)
+
 
 ## <div align="center">Table of Contents</div>
 
