@@ -12,14 +12,14 @@ hireDate DATE,
 ssn INT,
 streetAddress NVARCHAR (50),
 city NVARCHAR (20),
-addrstate NVARCHAR (20),
+addrState NVARCHAR (20),
 zipcode INT,
 email NVARCHAR (50),
 phoneNumber NVARCHAR (15)
 )
 
 INSERT INTO employees
-(empID, firstName, lastName, hireDate, ssn, streetAddress, city, addrstate, zipcode, email, phoneNumber)
+(empID, firstName, lastName, hireDate, ssn, streetAddress, city, addrState, zipcode, email, phoneNumber)
 VALUES
 (1, 'Rebecca', 'Smith', '20200530', 123456789, '3333 Porkbelly Street', 'san francisco', 'california', 90909, 'becca.88@gmail.com', '8582228765'),
 (2, 'Alex', 'Pot', '20200425', 222345678, '1234 Rainbow Court', 'san francisco', 'california', 90900, 'alexpot@gmail.com', '6190002222'),
