@@ -1,6 +1,9 @@
 A. Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...)
+
 B. code and architecture walk-through
+
 C. product demonstration (no final product yet)
+
 D. lessons learned:
 what did you do right?
   -understanding of software development lifecycle
