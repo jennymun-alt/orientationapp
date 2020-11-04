@@ -15,7 +15,7 @@ what did you do wrong?
 
   -not knowing proper requirements to achieve final product
   
-    -planning and designing
+  -planning and designing
 
 
 where were you lucky?
